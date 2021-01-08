@@ -1,3 +1,0 @@
->>> a = None                                                                    
->>> a is None                                                                   
-True                                                                            

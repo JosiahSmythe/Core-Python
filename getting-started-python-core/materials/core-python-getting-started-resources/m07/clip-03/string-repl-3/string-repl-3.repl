@@ -1,7 +1,0 @@
-('un', 'forget', 'able')                                                        
->>> departure, separator, arrival = "London:Edinburgh".partition(':')           
->>> departure                                                                   
-'London'                                                                        
->>> arrival                                                                     
-'Edinburgh'                                                                     
->>> origin, _, destination = "Seattle-Boston".partition('-')                    

@@ -1,2 +1,0 @@
->>> bmp.dimensions("mandel.bmp")                                                
-(448, 256)                                                                      

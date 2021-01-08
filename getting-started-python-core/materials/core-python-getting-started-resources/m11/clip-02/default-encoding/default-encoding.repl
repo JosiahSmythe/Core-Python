@@ -1,2 +1,0 @@
->>> sys.getdefaultencoding()                                                    
-'utf-8'                                                                         

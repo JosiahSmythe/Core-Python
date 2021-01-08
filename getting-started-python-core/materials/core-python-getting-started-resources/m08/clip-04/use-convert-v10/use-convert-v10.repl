@@ -1,3 +1,0 @@
->>> convert("fail".split())                                                     
-Conversion error: KeyError('fail')                                              
--1                                                                              
